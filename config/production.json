@@ -1,0 +1,9 @@
+{
+    "mongoURI": "mongodb+srv://rozay10:test1234@cluster0-qthnk.mongodb.net/test?retryWrites=true&w=majority",
+    "test": "mongodb+srv://rozay10:gravity10$@cluster0-qthnk.mongodb.net/land_title?retryWrites=true&w=majority",
+    "mongoUriLocal": "mongodb://localhost:27017/devconnector",
+    "jwtSecret": "mylittlesecret",
+    "githubClientId": "2e209f0ef40b1db78446",
+    "githubClientSecret": "ee693f90fab6c18f58652cf49a4f66d1ae4fb853"
+
+}
