@@ -35,6 +35,7 @@ const EditProfile = ({profile: { loading, profile }, createProfile, getCurrentPr
       youtube: loading || !profile.social.youtube ? "" : profile.social.youtube,
       instagram: loading || !profile.social.instagram ? "" : profile.social.instagram
     })
+    console.log('PROFILE SOCIAL',profile);
 
 }, [getCurrentProfile, loading]);
   const {
